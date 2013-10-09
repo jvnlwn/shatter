@@ -1,0 +1,21 @@
+/*.container {
+	width: 400px;
+	height: 400px;
+	margin: 150px auto 0;
+	position: relative;
+}*/
+
+.shatter {
+	width: 400px;
+	height: 400px;
+	margin: 150px auto 0;
+	position: relative;
+	background: radial-gradient(ellipse at center, #1e5799 0%, #1E997B 100%);
+}
+
+/*.back {
+	width: 100px;
+	margin: 0 auto;
+}*/
+
+
